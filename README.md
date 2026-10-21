@@ -12,7 +12,7 @@ RoadVision performs pixel-level segmentation of Indian road scenes using the Ind
 
 The visualization compares the original road image, ground-truth mask, model prediction, and pixel-level errors.
 
-![RoadVision Prediction](prediction.pmg)
+![RoadVision Prediction](prediction.png)
 
 ## Data Preprocessing
 
